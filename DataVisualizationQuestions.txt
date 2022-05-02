@@ -1,0 +1,13 @@
+Display the photos and names of top 3 billionaires ---> DONE
+
+Q1 - When (year) were the most number of billionaires born? --> DONE
+
+Q2 - What is the number of billionaires coming from each country? ----> Map ==> DONE
+
+Q3 - What is the distribution of ages of billionaires coming from each country? ---> DONE
+
+Q4 - What is the top 5 categories containing the highest number of billionaires? --> DONE
+
+Q5 - What is the top 5 categories containing the highest total of net worths? --> DONE
+
+Q6 - Interactive - > show the billionaires depending on which they are are selfmade and male or female -->DONE
